@@ -1,4 +1,4 @@
-import * as React from 'react'
+/* import * as React from 'react'
 import styles from './styles.module.css'
 
 interface Props {
@@ -8,3 +8,5 @@ interface Props {
 export const ExampleComponent = ({ text }: Props) => {
   return <div className={styles.test}>Example Component: {text}</div>
 }
+ */
+export * from './component/bz-button'
