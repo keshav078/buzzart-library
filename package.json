@@ -1,10 +1,10 @@
 {
-  "name": "buzzart-libs",
+  "name": "@keshav078/buzzart-libs",
   "version": "1.0.0",
   "description": "Buzzart Component Library",
   "author": "keshav078",
   "license": "MIT",
-  "repository": "keshav078/buzzart-libs",
+  "repository": "git://github.com/keshav078/buzzart-libs.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
